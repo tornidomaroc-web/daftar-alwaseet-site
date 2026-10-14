@@ -33,4 +33,3 @@ a { color: var(--brand); }
 .back { margin: 0 0 12px; font-size: 15px; }
 .links { padding-inline-start: 20px; }
 .contact { font-size: 19px; font-weight: 600; }
-.slot { background: #ffe9a8; color: #5a3d00; padding: 0 6px; border-radius: 6px; }
